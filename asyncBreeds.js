@@ -12,7 +12,4 @@ const printOutCatBreed = breed => {
   console.log('Return Value: ', breed);
 };
 
-
-
 module.exports = breedDetailsFromFile;
-//module.exports = printOutCatBreed;
